@@ -1,0 +1,1128 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"executive"
+			],
+			[
+				"patte",
+				"patterns"
+			],
+			[
+				"ts",
+				"tsTARJETAS"
+			],
+			[
+				"tar",
+				"tarjetas_all"
+			],
+			[
+				"Cuen",
+				"cuentaAsociada"
+			],
+			[
+				"lista_",
+				"lista_tarjetas_data"
+			],
+			[
+				"lista",
+				"lista_tarjetas"
+			],
+			[
+				"cuenta",
+				"cuentaAsociada"
+			],
+			[
+				"num",
+				"numContratosDuplicados"
+			],
+			[
+				"quer",
+				"query_prestamos"
+			],
+			[
+				"id",
+				"idcontrn"
+			],
+			[
+				"list",
+				"lista_tarjetas"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Cursos/MSMK/Convocatorias/_MDACI Feb18/Entregas/1_Carlos Ayala/Unix/texto.txt",
+			"settings":
+			{
+				"buffer_size": 11,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "SUMMARY.md",
+			"settings":
+			{
+				"buffer_size": 2548,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "# Introducción\n\nColección de ejemplos donde se pueden observar múltiples casos de uso dentro de un proyecto BigData\n\nLa mayoría de los ejemplos están basados en lenguaje **Python** y una pequeña parte en los lenguajes de **java** y **scala**.\n\nLos componentes utilizados son:\n\n- HDFS\n- MapReduce\n- Flume\n- Sqoop\n- Hive\n- Impala\n- Spark 2\n- MongoDB\n- Kafka\n- Jupyter\n- ZooKeeper\n- Oozie\n- Mahout\n- MySQL\n- Pig\n- HBase\n- R\n- JSON\n- XML\n- Parquet\n- Avro\n\nAutor: [Daniel Villanueva Jiménez](https://www.linkedin.com/in/dvillaj/)  \nPuedes ponerte en contacto conmigo en la dirección [dvillaj@gmail.com](mailto:dvillaj@gmail.com)\n\nVersión 1 - 20180915",
+			"file": "README.md",
+			"file_size": 687,
+			"file_write_time": 131812447895491288,
+			"settings":
+			{
+				"buffer_size": 645,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					""
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Install"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Cross-Compile (Interactive)"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Golang Build/Go.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mat",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"mardl",
+				"Rename Local and Remote Files"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"pig",
+				"Set Syntax: Pig"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"conf",
+				"Set Syntax: Generic Config"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp s",
+				"SFTP: Browse Server…"
+			],
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"go build",
+				"GoSublime: Run build command"
+			],
+			[
+				"gosublime",
+				"GoSublime: Browse Declarations"
+			],
+			[
+				"go",
+				"Go: Get"
+			],
+			[
+				"istall ",
+				"Package Control: Install Package"
+			],
+			[
+				"s",
+				"SFTP: Show Panel"
+			],
+			[
+				"sftp",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"Python",
+				"SublimeREPL: Python"
+			],
+			[
+				"SFTP",
+				"SublimeREPL: CoffeeScript"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"repl",
+				"SublimeREPL: R"
+			],
+			[
+				"R",
+				"Build With: R"
+			],
+			[
+				"REPL",
+				"Set Syntax: Io Repl"
+			],
+			[
+				"R CONSOLE",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 148.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/GitHub/BigDataBook",
+		"/D/GitHub/BigDataBook/ejemplos",
+		"/D/GitHub/BigDataBook/model",
+		"/D/GitHub/BigDataBook/movielens",
+		"/D/GitHub/BigDataBook/twitter",
+		"/D/GitHub/BigDataBook/wordcount",
+		"/D/GitHub/BigDataBook/xml"
+	],
+	"file_history":
+	[
+		"/D/Cursos/MSMK/Convocatorias/_MDACI Feb18/Entregas/Alberto Gallardo/Elevator Speech/Final.mp3",
+		"/D/GitHub/BigDataBook/setup/QuickSetup.md",
+		"/D/GitHub/BigDataBook/SUMMARY.md",
+		"/D/GitHub/BigDataBook/setup/Setup.md",
+		"/D/GitHub/BigDataBook/setup/setup.sh",
+		"/D/GitHub/BigDataBook/ejemplos/Avro.md",
+		"/D/GitHub/BigDataBook/xml/Readme.md",
+		"/D/GitHub/BigDataBook/ejemplos/EjemploSpark.md",
+		"/D/GitHub/BigDataBook/setup/Spark2.md",
+		"/D/GitHub/BigDataBook/movielens/Readme.md",
+		"/D/GitHub/BigDataBook/dataformats/Readme.md",
+		"/D/GitHub/BigDataBook/README.md",
+		"/D/GitHub/BigDataBook/ejemplos/EjemploHBase.md",
+		"/D/GitHub/BigDataExamples/hbase/hbase_sample.py",
+		"/D/GitHub/BigDataBook/hbase/example_hbase.py",
+		"/D/GitHub/BigDataBook/package.json",
+		"/C/Users/dvillanuevaj/Downloads/FlumeData.1529744184469",
+		"/D/GitHub/BigDataBook/access_logs/Readme.md",
+		"/D/GitHub/BigDataBook/precios/Readme.md",
+		"/D/GitHub/BigDataBook/temperature/Readme.md",
+		"/D/GitHub/BigDataBook/book.json",
+		"/D/GitHub/BigDataBook/setup/Odbc.md",
+		"/D/GitHub/BigDataBook/ejemplos/EjemploHive.md",
+		"/D/GitHub/BigDataBook/wordcount/Readme.md",
+		"/D/GitHub/BigDataBook/setup/Install.md",
+		"/D/GitHub/BigDataBook/setup/Twitter.md",
+		"/D/GitHub/BigDataBook/GLOSSARY.md",
+		"/D/GitHub/BigDataBook/reviews/Readme.md",
+		"/D/GitHub/BigDataBook/ejemplos/EjemploSqoop.md",
+		"/D/GitHub/BigDataBook/extras/R.md",
+		"/D/GitHub/BigDataBook/extras/Jupyter.md",
+		"/D/GitHub/BigDataBook/extras/Git.md",
+		"/D/GitHub/BigDataBook/cluster/Setup.md",
+		"/D/GitHub/BigDataBook/ejemplos/EjemploHDFS.md",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/GitHub/BigDataExamples/spark/jupyter_notebook_config.py",
+		"/D/GitHub/BigDataExamples/config/mongodb-org-3.6.repo",
+		"/D/GitHub/BigDataBook/wordcount/GLOSSARY.md",
+		"/D/GitHub/BigDataBook/setup/Acceso.md",
+		"/D/GitHub/BigDataBook/setup/Software.md",
+		"/D/GitHub/BigDataBook/setup/VirtualBox.md",
+		"/D/GitHub/BigDataBook/images/Install-7.png",
+		"/D/GitHub/BigDataBook/images/Filezilla-1.png",
+		"/D/GitHub/BigDataBook/setup/Problemas.md",
+		"/D/GitHub/BigDataExamples/README.md",
+		"/D/GitHub/BigDataBook/realtime/ExportMongo.md",
+		"/D/GitHub/BigDataBook/realtime/WordCount.md",
+		"/D/GitHub/BigDataBook/model/Readme.md",
+		"/D/GitHub/BigDataBook/grafos/Readme.md",
+		"/D/GitHub/BigDataBook/trends/Readme.md",
+		"/D/GitHub/BigDataBook/twitter/Readme.md",
+		"/D/GitHub/BigDataBook/retail/Readme.md",
+		"/D/GitHub/BigDataBook/rest/Readme.md",
+		"/D/GitHub/BigDataBook/dataflows/MapReduce.md",
+		"/D/GitHub/BigDataBook/spark/Readme.md",
+		"/D/GitHub/BigDataBook/ejemplos/EjemploFlume.md",
+		"/D/GitHub/BigDataBook/ejemplos/EjemploZooKeeper.md",
+		"/D/GitHub/BigDataBook/setup/Git.md",
+		"/D/GitHub/BigDataBook/sentiment/Readme.md",
+		"/D/GitHub/BigDataBook/proyecto/Ejecucion.md",
+		"/D/GitHub/BigDataBook/ejemplos/EjemploSocket.md",
+		"/D/GitHub/BigDataBook/realtime/Readme.md",
+		"/D/GitHub/BigDataBook/oozie/Readme.md",
+		"/D/GitHub/GetDataWS/get_data.py",
+		"/D/GitHub/BigDataBook/socket/Readme.md",
+		"/D/GitHub/BigDataBook/realtime/Queue.md",
+		"/D/GitHub/BigDataBook/spark/Jupyter.md",
+		"/D/GitHub/BigDataBook/jupyter/Readme.md",
+		"/D/GitHub/BigDataBook/json/Readme.md",
+		"/D/GitHub/BigDataBook/proyecto/Ejemplo.md",
+		"/D/GitHub/BigDataBook/extras/Spark2.md",
+		"/D/GitHub/BigDataBook/ejemplos/Readme.md",
+		"/D/GitHub/BigDataBook/ejemplos/EjemploKafka.md",
+		"/D/GitHub/BigDataBook/extras/Readme.md",
+		"/D/GitHub/BigDataBook/dataflows/Readme.md",
+		"/D/GitHub/BigDataBook/dataflows/RealTime.md",
+		"/D/GitHub/BigDataBook/proyecto/Readme.md",
+		"/D/GitHub/BigDataBook/setup/Readme.md",
+		"/D/GitHub/BigDataBook/realtime/MachineLearning.md",
+		"/D/GitHub/BigDataBook/setup/Otros.md",
+		"/D/GitHub/BigDataBook/proyecto/PrimerProyecto.md",
+		"/D/GitHub/BigDataBook/Git.md",
+		"/D/GitHub/BigDataBook/Spark2.md",
+		"/D/GitHub/BigDataBook/sftp-config.json",
+		"/D/GitHub/BigDataBook/Software.md",
+		"/D/GitHub/BigDataBook/Setup.md",
+		"/D/GitHub/BigDataBook/VirtualBox.md",
+		"/D/Cursos/DataHack/Hadoop/original/Hive/movies.csv",
+		"/D/GitHub/BigDataBook/Twitter.md",
+		"/D/GitHub/BigDataBook/Otros.md",
+		"/D/GitHub/BigDataBook/.gitignore",
+		"/D/GitHub/BigDataBook/Acceso.md",
+		"/D/prices/es_ANY/es_ANY.aff",
+		"/D/GitHub/Hadoop/rest/Readme.md",
+		"/D/GitHub/Hadoop/util/gdown.py",
+		"/D/GitHub/Hadoop/util/gdown.pl",
+		"/D/GitHub/Hadoop/precios/Readme.md",
+		"/D/GitHub/Hadoop/rest/export_mongo_df.py",
+		"/D/GitHub/Hadoop/rest/export_mongo.py",
+		"/D/GitHub/Hadoop/rest/web/web_server.py",
+		"/D/GitHub/Hadoop/rest/api_rest.py",
+		"/D/GitHub/Hadoop/grafos/src/scala/GraphExample.scala",
+		"/D/GitHub/Hadoop/grafos/Readme.md",
+		"/D/GitHub/Hadoop/rest/web/templates/table.html",
+		"/D/GitHub/Hadoop/rest/show_data.py",
+		"/D/GitHub/Hadoop/README.md",
+		"/D/GitHub/Hadoop/rest/web/test.py",
+		"/D/GitHub/Hadoop/rest/api_mongo.py",
+		"/D/GitHub/Hadoop/rest/flask_pymongo.py",
+		"/D/GitHub/Hadoop/trends/Readme.md",
+		"/D/GitHub/Hadoop/rest/server.py",
+		"/D/GitHub/Hadoop/spark/start_jupyter.sh",
+		"/D/Cursos/MSMK/Convocatorias/MEBDA_MAYO 2017/Entregas/Conchi/PRACTICA_SQL_ConchiOlivares.sql",
+		"/D/GitHub/Hadoop/config/mongodb-org-3.6.repo",
+		"/D/GitHub/Hadoop/mongodb-org-3.6.repo",
+		"/D/GitHub/Hadoop/precios/tablas.hql",
+		"/D/GitHub/Hadoop/precios/count.py",
+		"/D/GitHub/Hadoop/.gitignore",
+		"/D/GitHub/Hadoop/grafos/pom.xml",
+		"/D/GitHub/Hadoop/grafos/data/metadata-raw.txt",
+		"/D/GitHub/Hadoop/grafos/src/scala/GraphExample2.scala",
+		"/C/Users/dvillanuevaj/Downloads/2590857_T_ONTIME/2590857_T_ONTIME.csv",
+		"/D/GitHub/Hadoop/precios/download_precios.sh",
+		"/D/GitHub/Hadoop/twitter/tablas.hql",
+		"/D/GitHub/Hadoop/precios/data/precios/precios-lite.json",
+		"/D/GitHub/Hadoop/precios/data/ccaa.csv",
+		"/D/GitHub/Hadoop/sentiment/Readme.md",
+		"/D/GitHub/Hadoop/sentiment/flume.conf"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+			"D:\\GitHub\\BigDataBook",
+			"D:\\GitHub\\BigDataBook\\setup",
+			"D:\\GitHub\\BigDataBook"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"avro",
+			"pip install avro",
+			"Kafka",
+			"spark",
+			"openssl",
+			"grep",
+			"curl",
+			"##",
+			"cat",
+			"Hbase",
+			"git",
+			"hadoop fs -rm -r /raw/",
+			"max_temperature_reduce",
+			"max_temperature_map",
+			"mkdir",
+			"shakespeare",
+			"shakespeare.tar.gz",
+			"bashrc",
+			"Python",
+			"Depen",
+			"Dependen",
+			"BOOK_VERSION",
+			"bee",
+			"ssh",
+			"SSH",
+			"\"",
+			"kazoo",
+			"client.py",
+			"j",
+			"yum",
+			"Twitter",
+			"$",
+			"D:",
+			"d:\\",
+			"realtime",
+			"313"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"model"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Cursos/MSMK/Convocatorias/_MDACI Feb18/Entregas/1_Carlos Ayala/Unix/texto.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "SUMMARY.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1185,
+								1185
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1188,
+										1189
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1164,
+										1165
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"parser": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"target": "disk",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								645
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 32.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://C:\\Users\\dvillanuevaj\\Documents":
+	{
+		"height": 520.0
+	},
+	"output.9o://C:\\Users\\dvillanuevaj\\Documents\\go\\src":
+	{
+		"height": 448.0
+	},
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 353.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.golang_build":
+	{
+		"height": 132.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "Packages/Golang Build/Go.sublime-build",
+	"project": "GitDataBook.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\GitHub\\BigDataExamples\\BigDataExamples.sublime-project"
+			],
+			[
+				"bigpri",
+				"D:\\GitHub\\BigPrices\\bigprices.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 356.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,42 @@
+{
+    "title": "BigData Examples",
+    "description" : "Ejemplos de código sencillo y totalmente funcional en proyectos de BigData",
+    "author" : "Daniel Villanueva Jiménez",
+    "language" : "es",
+    "links": {
+        "sidebar": {
+            "Contacto": "mailto:dvillaj@gmail.com"
+        }
+    },
+
+    "plugins": ["autocover"],
+    "pluginsConfig": {
+        "autocover":  {
+            "font": {
+                "size": null,
+                "family": "Impact",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#09F"
+            }
+        }
+    },
+
+    "pdf": {
+        "pageNumbers": true,
+        "fontSize": 12,
+        "fontFamily" : "Arial",
+        "paperSize": "a4",
+        "margin": {
+            "right": 40,
+            "left": 40,
+            "top": 62,
+            "bottom": 62
+        }
+    }
+}
