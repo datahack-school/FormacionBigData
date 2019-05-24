@@ -74,11 +74,19 @@ source ~/.bashrc
 
 cd $HOME/Hadoop
 
-python util/gdown.py --id 1YthjLprAyaR7UC890tElxJXuWmrMunO1 \
+# movielens.sql.gz can be found at Google Drive dhConsulting>Cursos Cortos BD>Material>datos
+# If changes are made to that file be sure to generate its shareable link again and replace it
+# below after --id
+python util/gdown.py --id 1JyAPrZD07hk1isk3QoyA-f8HiJsIZ_s8 \
     movielens/data/movielens.sql.gz
 
 cd $HOME/Hadoop/movielens
 gunzip data/movielens.sql.gz
+# An ERROR 1153 (08S01) at line 96: Got a packet bigger than 'max_allowed_packet' bytes may show up
+# when trying to run the command below; if so, do the following after the script has finished:
+# First run mysql -u root -pcloudera
+# Second issue: set global max_allowed_packet=1000000000; to ensure max_allowed_packet will accept
+# movielens.sql. You can then run in another terminal the command below.
 mysql -u root -pcloudera < data/movielens.sql
 
 cd $HOME/Hadoop/spark
