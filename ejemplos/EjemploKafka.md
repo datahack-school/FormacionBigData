@@ -15,16 +15,16 @@ kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 \
     --partitions 1 --topic prueba
 ```
 
-- Borrar un tópico
-
-```
-kafka-topics.sh --delete --zookeeper localhost:2181 --topic prueba
-```
-
 - Listar los tópicos
 
 ```
 kafka-topics.sh --list --zookeeper localhost:2181
+```
+
+- Borrar un tópico
+
+```
+kafka-topics.sh --delete --zookeeper localhost:2181 --topic prueba
 ```
 
 - Ejemplo de productor
