@@ -21,7 +21,7 @@ kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 \
 kafka-topics.sh --list --zookeeper localhost:2181
 ```
 
-- Borrar un tópico
+- Borrar un tópico (si vas a seguir probando los sucesivos comandos, deja el borrado para el final)
 
 ```
 kafka-topics.sh --delete --zookeeper localhost:2181 --topic prueba
